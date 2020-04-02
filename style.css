@@ -1,0 +1,14 @@
+  table {
+  margin: 0 auto;
+  width: 70%;
+  height:60px;
+  background-color: rgba(227,230,195);
+  text-align: center;
+  }
+td {
+  text-align:center;
+  width: 25%;
+  font-size: 20px;
+  }
+
+
